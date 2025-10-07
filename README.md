@@ -1,6 +1,6 @@
 # Semantic Experiments
 
-This repository explores and extends the ideas from the paper [A mathematical theory of semantic development in deep neural networks](https://www.nature.com/articles/s41467-019-10320-7) by Andrew Saxe et al. Specifically, this project investigates how semantic representations emerge in neural networks under modified training regimes and architectures.
+This repository explores and extends the ideas from the paper [A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/10.1073/pnas.1820226116) by Andrew Saxe et al. Specifically, this project investigates how semantic representations emerge in neural networks under modified training regimes and architectures.
 
 ## Overview
 
