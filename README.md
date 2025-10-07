@@ -47,7 +47,7 @@ Here is one example showing the representational dynamics using the transformer 
 ![Transformer with negation](assets/negation_results.png)
 ## Reference
 
-- Saxe, A. M., McClelland, J. L., & Ganguli, S. (2019). [A mathematical theory of semantic development in deep neural networks](https://www.nature.com/articles/s41467-019-10320-7). *Nature Communications*, 10, 1-19.
+- Saxe, A. M., McClelland, J. L., & Ganguli, S. (2019). [A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/10.1073/pnas.1820226116). *Nature Communications*, 10, 1-19.
 
 ## Contributing
 
