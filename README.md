@@ -43,7 +43,7 @@ We replace the original linear multi-layer perceptron (MLP) with a simple GPT-li
    - For transformer with token inputs:  
      See `train_tiny_model.py`
 
-
+Here is one example showing the representational dynamics using the transformer and also augmenting the training dataset with the NOT operation: 
 ![Transformer with negation](assets/negation_results.png)
 ## Reference
 
