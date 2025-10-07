@@ -43,6 +43,8 @@ We replace the original linear multi-layer perceptron (MLP) with a simple GPT-li
    - For transformer with token inputs:  
      See `train_tiny_model.py`
 
+
+![Transformer with negation](assets/negation_results.png)
 ## Reference
 
 - Saxe, A. M., McClelland, J. L., & Ganguli, S. (2019). [A mathematical theory of semantic development in deep neural networks](https://www.nature.com/articles/s41467-019-10320-7). *Nature Communications*, 10, 1-19.
