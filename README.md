@@ -8,7 +8,7 @@ The original paper presents a mathematical analysis of how deep linear networks 
 
 ### 1. Logical Operations in Training Data
 
-Instead of only training on one-hot output features, we introduce logical operations (AND, OR, etc.) between output features. In this setup, the inputs are a sum of one-hots that each represent an entity from the original data distribution and the outputs are computed based on a applying a give logical operation (AND, OR, NOT, XOR) to the features of the entities being combined. This modification allows us to observe the effects of richer semantic relationships in the training data and how they influence learning trajectories and final representations.
+Instead of only training on one-hot output features, we introduce logical operations (AND, OR, etc.) between output features. In this setup, the inputs are a sum of one-hots that each represent an entity from the original data distribution, and the outputs are computed by applying a given logical operation (AND, OR, NOT, XOR) to the features of the entities being combined. This modification allows us to observe the effects of richer semantic relationships in the training data and how they influence learning trajectories and final representations.
 
 ### 2. Transformer-based Architecture with Token Inputs
 
