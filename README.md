@@ -51,6 +51,3 @@ We replace the original linear multi-layer perceptron (MLP) with a simple GPT-li
 
 Contributions are welcome! Please open issues or submit pull requests for improvements, suggestions, or new experiments.
 
-## License
-
-This project is licensed under the MIT License.
